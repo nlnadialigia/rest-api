@@ -32,6 +32,8 @@ A api foi desenvolvida em camadas, isolando a responsabilidade de cada uma.
 
 Foram desenvolvidos testes independentes para cada endpoint e middleware de tratativa de erros.
 
+<br>
+
 ## ⚙️ Como rodar o projeto
 
 📌 Clonar o repositório
@@ -48,15 +50,13 @@ cd rest-api
 ```bash
 yarn
 ```
-ou
-```bash
-npm install
-```
 
 📌 Iniciar o projeto
+```bash
+yarn dev
+```
 
-
-
+<br>
 
 ## ⚙️ Bibliotecas utilizadas
 
