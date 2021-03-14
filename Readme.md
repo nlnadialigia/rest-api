@@ -56,6 +56,22 @@ yarn
 yarn dev
 ```
 
+📌 Rodar os testes
+```bash
+yarn test
+```
+
+📌 Teste as rotas pelo [Insomnia](https://insomnia.rest/):
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fnlnadialigia%2Frest-api%2Fmain%2Finsomnia.json)
+
+<br>
+
+📌 Ou se preferir, veja a documentação gerada no [Postman](https://www.postman.com/)
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/14773197/Tz5qaHEV)
+
+
 <br>
 
 ## ⚙️ Bibliotecas utilizadas
