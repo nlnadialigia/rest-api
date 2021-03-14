@@ -81,7 +81,7 @@ yarn test
 - [Axios](https://www.npmjs.com/package/axios)
 - [Express](https://expressjs.com/pt-br/)
 - [Pg-promise](https://www.npmjs.com/package/pg-promise) 
-- [Dotenv]()
+- [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Jest](https://jestjs.io) 
 
 ### 📌 Como dependência de desenvolvimento
