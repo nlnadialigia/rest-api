@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon server/server.js",
-    "test": "jest --watch --detectOpenHandles"
+    "test": "jest --watch"
   },
   "dependencies": {
     "axios": "^0.21.1",
